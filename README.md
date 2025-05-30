@@ -1,1 +1,1 @@
-# number-guessing game suing the python 
+# number-guessing game using the python 
