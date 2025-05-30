@@ -1,1 +1,1 @@
-# number-gues
+# number-guessing game suing the python 
